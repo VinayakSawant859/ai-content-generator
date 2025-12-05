@@ -1,7 +1,7 @@
 <?php
 
 return array(
-    'gemini_api_key' => 'AIzaSyCEzlFshbfqJulb_oaaDN0UZ4Kn6J7FzBI',
+    'gemini_api_key' => 'YOUR_GEMINI_API_KEY_HERE',
     'gemini_api_url' => 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent',
     
     'api_version' => 'v1',
